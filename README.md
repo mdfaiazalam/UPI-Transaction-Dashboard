@@ -14,3 +14,7 @@ This **Power BI dashboard** analyzes **UPI transactions** across different banks
 - **📉 Failed Transaction Analysis:** Failure rate by **bank & merchant**  
 - **📅 Time-Based Analysis:** Transactions by **hour, day, and month**  
 - **🎯 Customer Segmentation:** Behavior analysis by **age & gender**  
+## 🛠 Tools Used
+- **Power BI** for visualization  
+- **SQL/Python** (if applicable) for data cleaning  
+- **Excel/CSV** for raw data storage  
