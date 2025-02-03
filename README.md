@@ -18,3 +18,7 @@ This **Power BI dashboard** analyzes **UPI transactions** across different banks
 - **Power BI** for visualization  
 - **SQL/Python** (if applicable) for data cleaning  
 - **Excel/CSV** for raw data storage  
+## 📌 Future Enhancements
+- ✅ Include **Transaction Failure Reasons** (if available)  
+- ✅ Add **Bank-Wise Performance Metrics**  
+- ✅ Implement **Fraud Detection Analysis**  
