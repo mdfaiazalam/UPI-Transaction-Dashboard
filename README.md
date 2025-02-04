@@ -8,11 +8,10 @@ This **Power BI dashboard** analyzes **UPI transactions** across different banks
 ✔ **Breakdown by Payment Method, Merchant, and Currency**  
 ✔ **Interactivity:** Filter transactions by **City, Merchant, Payment Mode, Gender** 
 ## 📊 Dashboard Features
-- **📍 Regional Insights:** Transactions by city & bank  
-- **💰 Payment Method Breakdown:** QR Code, UPI ID, Phone Number  
-- **📉 Failed Transaction Analysis:** Failure rate by **bank & merchant**  
-- **📅 Time-Based Analysis:** Transactions by **hour, day, and month**  
-- **🎯 Customer Segmentation:** Behavior analysis by **age & gender**  
+- **📍 City-Wise Transaction Breakdown** (Remaining Balance & Amount Processed)  
+- **📈 Monthly Transaction Trend (Line Chart)**  
+- **🔎 Interactive Filters** (Payment Method, City, Merchant Name, Gender, Currency)  
+- **📊 Comparative Analysis of Payment Methods & Merchants**  
 ## 🛠 Tools Used
 - **Power BI** for visualization  
 - **SQL/Python** (if applicable) for data cleaning  
